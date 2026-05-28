@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Thien Bao 👋</h1>
 
-<!--
-**thienbao0102/thienbao0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend-focused Full-Stack Developer building scalable, secure, and maintainable web systems.
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I care about performance, reliability, security, real-time communication, and clean system architecture.
+  Currently working with Node.js, NestJS, React, MongoDB, PostgreSQL, Redis, WebSocket, and background job processing.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:nguyenbao01022004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/NguyenVoThienBao">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/thienbao0102">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+I am a Software Engineering student at Van Lang University, focusing on backend and full-stack development.  
+My work is centered around building practical systems that go beyond basic functionality — systems that are reliable, secure, scalable, and efficient enough for real users.
+
+I have experience working on real-world projects involving administrative workflow digitization, emergency alert systems, real-time notifications, background workers, caching, API design, and database-driven applications.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,react,nextjs,mongodb,postgres,redis,docker,nginx,git,github,python" />
+</p>
+
+---
+
+## Featured Projects
+
+### HEPZA Management System
+Enterprise and Industrial Park Management System built with MongoDB, Express.js, React, and Node.js.
+
+- Built backend modules for authentication, company/user/zone management, reports, resource-waste workflows, notifications, exports, and logs.
+- Designed real-time notifications using Socket.io, Redis Pub/Sub, and BullMQ worker.
+- Prepared scalable architecture using Nginx, PM2 cluster mode, and Redis caching.
+
+### Smart Rescue Application
+AI-assisted emergency alert system for fall detection and caregiver notification.
+
+- Worked across NestJS API, AI backend, worker, patient app, and caregiver app.
+- Implemented reliability patterns such as idempotency keys, event sequence tracking, fallback warning codes, and emergency status lifecycle.
+- Integrated WebSocket alerts and Firebase push notifications.
+
+### StaffHub-VLU Reporting Dashboard
+Lecturer and reporting dashboard built with Next.js, NestJS, PostgreSQL, Prisma, JWT, Socket.io, and Tailwind CSS.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thienbao0102&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao0102&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thienbao0102&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <em>Building software with care for performance, security, reliability, and long-term maintainability.</em>
+</p>

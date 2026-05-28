@@ -45,7 +45,7 @@ I have experience working on real-world projects involving administrative workfl
 ### HEPZA Management System
 Enterprise and Industrial Park Management System built with MongoDB, Express.js, React, and Node.js.
 
-- Built backend modules for authentication, company/user/zone management, reports, resource-waste workflows, notifications, exports, and logs.
+- Built backend modules for authentication, company/user/zone management, reports, resource-waste workflows, symbiosis business, exports, and logs.
 - Designed real-time notifications using Socket.io, Redis Pub/Sub, and BullMQ worker.
 - Prepared scalable architecture using Nginx, PM2 cluster mode, and Redis caching.
 
@@ -56,20 +56,28 @@ AI-assisted emergency alert system for fall detection and caregiver notification
 - Implemented reliability patterns such as idempotency keys, event sequence tracking, fallback warning codes, and emergency status lifecycle.
 - Integrated WebSocket alerts and Firebase push notifications.
 
-### StaffHub-VLU Reporting Dashboard
-Lecturer and reporting dashboard built with Next.js, NestJS, PostgreSQL, Prisma, JWT, Socket.io, and Tailwind CSS.
-
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thienbao0102&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao0102&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=thienbao0102&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
+    alt="Thien Bao's GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao0102&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thienbao0102&theme=github-dark-blue&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=thienbao0102&amp;theme=tokyonight&amp;hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---

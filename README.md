@@ -1,13 +1,10 @@
-<h1 align="center">Hi, I'm Thien Bao 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=260&section=header&text=Theon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer&descAlignY=58&descSize=18" />
 
-<h3 align="center">
-Backend-focused Full-Stack Developer building scalable, secure, and maintainable web systems.
-</h3>
+## About Me
 
-<p align="center">
-  I care about performance, reliability, security, real-time communication, and clean system architecture.
-  Currently working with Node.js, NestJS, React, MongoDB, PostgreSQL, Redis, WebSocket, and background job processing.
-</p>
+I am a final-year Software Engineering student at Van Lang University, focusing on full-stack development and practical system building. I care deeply about clean architecture, performance, security, reliability, and maintainability — building software that not only works, but can grow, adapt, and be trusted in real-world use.
+
+Currently, I am improving my skills in system design, performance optimization, application security, cloud architecture, and AI-assisted software development, with the goal of building practical systems that solve real problems.
 
 <p align="center">
   <a href="mailto:nguyenbao01022004@gmail.com">
@@ -21,14 +18,20 @@ Backend-focused Full-Stack Developer building scalable, secure, and maintainable
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thienbao0102&label=Visits&style=flat&color=4f46e5" alt="Profile Visits" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthienbao0102&logo=github&style=flat&color=4f46e5" alt="Public Repositories" />
+  <img src="https://img.shields.io/github/followers/thienbao0102?label=Followers&style=flat&logo=github&color=ffffff&labelColor=24292e" alt="GitHub Followers" />
+</p>
 
-## About Me
-
-I am a Software Engineering student at Van Lang University, focusing on backend and full-stack development.  
-My work is centered around building practical systems that go beyond basic functionality — systems that are reliable, secure, scalable, and efficient enough for real users.
-
-I have experience working on real-world projects involving administrative workflow digitization, emergency alert systems, real-time notifications, background workers, caching, API design, and database-driven applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack%20Development-0EA5E9?style=flat" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-F97316?style=flat" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-E11D48?style=flat" />
+  <img src="https://img.shields.io/badge/System%20Design-65A30D?style=flat" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipeline-C026D3?style=flat" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-EAB308?style=flat" />
+</p>
 
 ---
 
@@ -40,38 +43,7 @@ I have experience working on real-world projects involving administrative workfl
 
 ---
 
-## Featured Projects
-
-### HEPZA Management System
-Enterprise and Industrial Park Management System built with MongoDB, Express.js, React, and Node.js.
-
-- Built backend modules for authentication, company/user/zone management, reports, resource-waste workflows, symbiosis business, exports, and logs.
-- Designed real-time notifications using Socket.io, Redis Pub/Sub, and BullMQ worker.
-- Prepared scalable architecture using Nginx, PM2 cluster mode, and Redis caching.
-
-### Smart Rescue Application
-AI-assisted emergency alert system for fall detection and caregiver notification.
-
-- Worked across NestJS API, AI backend, worker, patient app, and caregiver app.
-- Implemented reliability patterns such as idempotency keys, event sequence tracking, fallback warning codes, and emergency status lifecycle.
-- Integrated WebSocket alerts and Firebase push notifications.
-
----
-
 ## GitHub Analytics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=thienbao0102&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
-    alt="Thien Bao's GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienbao0102&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
 <p align="center">
   <img
@@ -82,6 +54,37 @@ AI-assisted emergency alert system for fall detection and caregiver notification
 
 ---
 
-<p align="center">
-  <em>Building software with care for performance, security, reliability, and long-term maintainability.</em>
-</p>
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/HEPZA-Team/Hepza_Project">
+        <b>HEPZA Management System</b>
+      </a>
+      <br />
+      <sub>
+        Enterprise & Industrial Park Management System for digitizing administrative workflows and real-world operational management.
+      </sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/thienbao0102/SMART_RESCUE_APPLICATION">
+        <b>Smart Rescue Application</b>
+      </a>
+      <br />
+      <sub>
+        AI-assisted emergency alert system for fall detection, patient monitoring, and caregiver notification.
+      </sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
+    </td>
+  </tr>
+</table>
